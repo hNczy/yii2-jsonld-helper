@@ -21,7 +21,7 @@ Add extension to your `composer.json` and update your dependencies as usual, e.g
 }
 ```
 
-##Sample Usage
+## Sample Usage
 
 To let search engines know how to display your website name in search results,
 you can add the following JSON-LD document somewhere on your landing page:
